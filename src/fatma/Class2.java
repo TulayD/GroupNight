@@ -1,6 +1,7 @@
 package fatma;
 
 public class Class2 {
-
-    mai
+    public static void main(String[] args) {
+        System.out.println("helloo");
+    }
 }
